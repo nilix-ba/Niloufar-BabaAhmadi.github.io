@@ -19,7 +19,7 @@ From the bustling lecture halls of my university to the dynamic research laborat
 
 ## What You'll Discover
 
-Within My Technical Haven, I've thoughtfully curated a collection of my projects and research endeavors, revealing my unwavering commitment to the field of computer science. Explore a diverse portfolio, from addressing real-world challenges using cutting-edge machine learning models to optimizing intricate algorithms for maximum efficiency. Each project serves as a testament to my dedication and relentless pursuit of excellence.
+Within My Technical Haven, I've thoughtfully curated a collection of my projects and research endeavors, revealing my unwavering commitment to the field of computer science. Explore a diverse selection of projects, from addressing real-world challenges using cutting-edge machine learning models to optimizing intricate algorithms for maximum efficiency. Each project serves as a testament to my dedication and relentless pursuit of excellence.
 
 ## Join the Journey
 
