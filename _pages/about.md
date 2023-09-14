@@ -15,7 +15,7 @@ Greetings, I'm Niloufar Baba Ahmadi, a devoted Computer Science student at the e
 
 ## My Journey
 
-From the bustling lecture halls of my university to the dynamic research laboratories of renowned institutions like the University of Hamburg and KU Leuven, my academic voyage has covered wide horizons. Collaborating with esteemed professors and mentors such as [Hugo van Hamme](https://www.kuleuven.be/wieiswie/en/person/00040707) and [Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html), we've collectively pushed the boundaries of what's achievable in fields such as Natural Language Processing, Machine Learning, and Deep Learning.
+From the bustling lecture halls of my university to the dynamic research laboratories of renowned institutions like the University of Hamburg and KU Leuven, my academic voyage has covered wide horizons. Collaborating with esteemed professors and mentors such as [Prof. Hugo van Hamme](https://www.kuleuven.be/wieiswie/en/person/00040707) and [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html), we've collectively pushed the boundaries of what's achievable in fields such as Natural Language Processing, Machine Learning, and Deep Learning.
 
 ## What You'll Discover
 
