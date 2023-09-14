@@ -1,5 +1,5 @@
 **Welcome to My Technical Haven**
-
+<!-- 
 *Who I Am*
 
 Greetings, I'm Niloufar Baba Ahmadi, a devoted Computer Science student at the esteemed University of Tehran. With a deep passion for technology, I've embarked on a captivating journey of exploration and innovation, delving into the intricate worlds of data, algorithms, and artificial intelligence. It is with genuine warmth that I extend a heartfelt welcome to you here at My Technical Haven.
@@ -18,4 +18,4 @@ I extend a warm invitation to all—students, tech enthusiasts, and anyone with 
 
 *Let's Connect*
 
-I firmly believe that collaboration is the cornerstone of innovation. If you're interested in forging partnerships for exciting projects, exchanging ideas, or engaging in enriching conversations about the future of technology, please do not hesitate to reach out. You can connect with me via email at <a href="mailto:niloufarbabaahmadi@gmail.com" target="_blank" rel="noopener noreferrer">email</a> or visit my [LinkedIn](https://www.linkedin.com/in/niloufar-babaahmadi/) and [GitHub](https://github.com/nilix-ba) profiles. Your contributions are highly valued as we embark together on this journey of discovery at My Technical Haven.
+I firmly believe that collaboration is the cornerstone of innovation. If you're interested in forging partnerships for exciting projects, exchanging ideas, or engaging in enriching conversations about the future of technology, please do not hesitate to reach out. You can connect with me via email at <a href="mailto:niloufarbabaahmadi@gmail.com" target="_blank" rel="noopener noreferrer">email</a> or visit my [LinkedIn](https://www.linkedin.com/in/niloufar-babaahmadi/) and [GitHub](https://github.com/nilix-ba) profiles. Your contributions are highly valued as we embark together on this journey of discovery at My Technical Haven. -->
