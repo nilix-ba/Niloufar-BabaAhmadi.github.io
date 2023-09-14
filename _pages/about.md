@@ -1,4 +1,13 @@
-# Welcome to My Technical Haven
+---
+permalink: /
+title: "Welcome to My Technical Haven"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+
+  - /abot/
+  - /about.html
+---
 
 ## Who I Am
 
